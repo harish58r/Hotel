@@ -6,6 +6,7 @@ public class NonVegOrder implements Hotel {
 	public void order() {
 		// TODO Auto-generated method stub
 		System.out.println("You selected NonVeg");
+		System.out.println("Change code");
 	}
 
 }
